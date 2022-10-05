@@ -1,1 +1,1 @@
-A script to change from pwd to user home directory
+Display current directory contents in long format
