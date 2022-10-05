@@ -1,1 +1,1 @@
-Display ALL files in pwd in long format
+ALL files with numeric user and id displayed in long format
