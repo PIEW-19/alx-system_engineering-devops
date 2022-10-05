@@ -1,1 +1,1 @@
-Display current directory contents in long format
+Display ALL files in pwd in long format
