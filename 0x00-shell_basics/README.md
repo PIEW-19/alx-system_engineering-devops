@@ -1,1 +1,1 @@
-Print iamafile to tmp dir
+Create a symbolic link in pwd
