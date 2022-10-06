@@ -1,1 +1,1 @@
-To create three dirs in the pwd
+List all files and dir of pwd separated by commas
