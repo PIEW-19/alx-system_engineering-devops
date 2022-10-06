@@ -1,1 +1,1 @@
-To delete ALL files in pwd ending in ~
+To create three dirs in the pwd
