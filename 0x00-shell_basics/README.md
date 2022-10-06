@@ -1,1 +1,1 @@
-Copy html files
+Move all files starting with uppercase to /tmp/u
