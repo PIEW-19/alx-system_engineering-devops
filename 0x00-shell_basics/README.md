@@ -1,1 +1,1 @@
-Move all files starting with uppercase to /tmp/u
+To delete ALL files in pwd ending in ~
