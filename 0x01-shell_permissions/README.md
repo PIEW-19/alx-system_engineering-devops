@@ -1,1 +1,1 @@
-Play Star Wars IV episode in terminal
+Use of symbolic links
