@@ -1,1 +1,1 @@
-To change group owner to school for file hello
+Chnage mode of file hello to olleh mode
