@@ -1,1 +1,1 @@
-Chnage mode of file hello to olleh mode
+Execute permission for all subdirectories
