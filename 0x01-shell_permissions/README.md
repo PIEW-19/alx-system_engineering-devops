@@ -1,1 +1,1 @@
-Everybody should really execute
+To set the mode of file hello
