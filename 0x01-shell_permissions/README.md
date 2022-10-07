@@ -1,1 +1,1 @@
-Execute permission for all subdirectories
+New dir with permissions 751 in pwd
