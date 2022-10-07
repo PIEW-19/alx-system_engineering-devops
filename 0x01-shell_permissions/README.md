@@ -1,1 +1,1 @@
-To set the mode of file hello
+To change group owner to school for file hello
