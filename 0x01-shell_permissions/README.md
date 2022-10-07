@@ -1,1 +1,1 @@
-To change owner of the file hello to user betty
+To create empty file hello
