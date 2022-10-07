@@ -1,1 +1,1 @@
-To print all the groups of current user
+To change owner of the file hello to user betty
