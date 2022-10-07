@@ -1,1 +1,1 @@
-To add execute permission to woner of file hello
+To add execute permission to woner and group owner read for other users
