@@ -1,1 +1,1 @@
-New dir with permissions 751 in pwd
+Only user to execute file hello
