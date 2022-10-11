@@ -1,1 +1,1 @@
-To create an alias
+To print hello user
