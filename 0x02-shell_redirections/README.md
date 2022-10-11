@@ -1,1 +1,1 @@
-count word
+To display lines of pattern
