@@ -1,1 +1,1 @@
-Ask where path leads
+To print global env
