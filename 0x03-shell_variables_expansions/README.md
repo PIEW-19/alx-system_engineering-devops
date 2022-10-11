@@ -1,1 +1,1 @@
-To add /action to path
+Ask where path leads
