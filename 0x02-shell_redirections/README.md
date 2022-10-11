@@ -1,1 +1,1 @@
-Letters only please
+From A-Z
