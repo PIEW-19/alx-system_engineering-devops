@@ -1,1 +1,1 @@
-From A-Z
+Without letter c
