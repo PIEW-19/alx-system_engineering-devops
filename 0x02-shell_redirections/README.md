@@ -1,1 +1,1 @@
-To display lines of pattern
+Lets hide some words
