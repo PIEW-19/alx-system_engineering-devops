@@ -1,1 +1,1 @@
-My first global variable
+True knowledge is power
