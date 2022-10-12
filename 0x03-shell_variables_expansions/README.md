@@ -1,1 +1,1 @@
-Combination in pairs
+Add new directory to PATH
