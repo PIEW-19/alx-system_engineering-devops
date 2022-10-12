@@ -1,1 +1,1 @@
-Add new directory to PATH
+To create a global variable
