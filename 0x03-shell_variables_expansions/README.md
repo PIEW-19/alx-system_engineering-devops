@@ -1,1 +1,1 @@
-Print every other line starting grom the input
+Water and stir
