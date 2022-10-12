@@ -1,1 +1,1 @@
-To create a global variable
+Combining in pairs
